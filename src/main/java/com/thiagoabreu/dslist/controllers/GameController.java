@@ -1,7 +1,6 @@
 package com.thiagoabreu.dslist.controllers;
 
 import com.thiagoabreu.dslist.dto.GameMinDTO;
-import com.thiagoabreu.dslist.entities.Game;
 import com.thiagoabreu.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
