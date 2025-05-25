@@ -64,4 +64,4 @@ Seu principal objetivo é oferecer uma interface RESTful para o gerenciamento de
 ## 👨‍💻 Autor
 Thiago Linares de Abreu
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tabreubr)  
